@@ -16,7 +16,7 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dhananjay-chitale-0940722a2/)
+- [LinkedIn](https://www.linkedin.com/in/dhananjay-chitale-0940722a2/)
 - [Blog/Website](https://techynox.com)
 
 ## 🤝 Let's Connect!
