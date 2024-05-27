@@ -25,6 +25,8 @@ Feel free to reach out if you share similar interests, have questions, or just w
 
 Happy coding! 👨‍💻🔒
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DChitale)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 DChitale/DChitale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
