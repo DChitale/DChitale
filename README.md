@@ -12,6 +12,7 @@
 
 ## 💼 Experience
 
+Not much just participating in some CTF compitions
 
 
 ## 🌐 Connect with Me
