@@ -24,6 +24,7 @@
 Feel free to reach out if you share similar interests, have questions, or just want to connect. I'm open to collaborations and always looking for new opportunities to learn and grow in the field of cybersecurity.
 
 Happy coding! 👨‍💻🔒
+![](https://komarev.com/ghpvc/?username=DChitale&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DChitale&show_icons=true&theme=radical)
 
