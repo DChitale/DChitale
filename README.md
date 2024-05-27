@@ -16,15 +16,19 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/dhananjay-chitale-0940722a2/)
-- [Blog/Website](https://techynox.com)
-- [Try Hack Me](https://tryhackme.com/p/dreamx)
+<div id="badges">
+<a herf="https://www.linkedin.com/in/dhananjay-chitale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</div>
+
 ## 🤝 Let's Connect!
 
 Feel free to reach out if you share similar interests, have questions, or just want to connect. I'm open to collaborations and always looking for new opportunities to learn and grow in the field of cybersecurity.
 
 Happy coding! 👨‍💻🔒
-![](https://komarev.com/ghpvc/?username=DChitale&color=blue)
+
+![hello](https://komarev.com/ghpvc/?username=DChitale&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DChitale&show_icons=true&theme=radical)
 
