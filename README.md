@@ -12,8 +12,7 @@
 
 ## 💼 Experience
 
-Not much just participating in some CTF compitions
-
+[![An image of @dchitale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dchitale)](https://holopin.io/@dchitale)
 
 ## 🌐 Connect with Me
 
