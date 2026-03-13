@@ -1,38 +1,78 @@
-# Hi there! 👋 I'm Dhananjay !
+<div align="center">
 
-🎓 I'm a passionate student currently diving deep into the fascinating world of cybersecurity.
 
-## 🔧 Skills & Interests
 
-- **Cybersecurity**: Studying various aspects of cybersecurity, including ethical hacking, penetration testing, and malware analysis.
-- **Networking**: Understanding network protocols, configurations, and security measures.
-- **Programming**: Proficient in languages such as Python and Java, with a focus on scripting for security tasks.
-- **Web Security**: Exploring vulnerabilities and best practices for securing web applications.
-- **Linux**: Comfortable with Linux environments, command line, and system administration.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Dhananjay+Chitale;%24+cat+role.txt;%3E+Full+Stack+Developer+%7C+Security-Aware+Builder;%24+ls+skills%2F;%3E+Java++React++Docker++Cloud++Linux;%24+./status.sh;%3E+" />
 
-## 💼 Experience
+<br/>
 
-[![An image of @dchitale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dchitale)](https://holopin.io/@dchitale)
 
-## 🌐 Connect with Me
 
-<div id="badges">
-<a href="https://www.linkedin.com/in/dhananjay-chitale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://discord.com/users/@dreamx007"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
- <a href="https://t.me/d_chitale"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
 
-## 🤝 Let's Connect!
-
-Feel free to reach out if you share similar interests, have questions, or just want to connect. I'm open to collaborations and always looking for new opportunities to learn and grow in the field of cybersecurity.
-
-Happy coding! 👨‍💻🔒
-
-![hello](https://komarev.com/ghpvc/?username=DChitale&color=blue)
+---
 
 
 
-<!---
-DChitale/DChitale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## `$ cat /dev/dhananjay`
+
+```bash
+{
+  "name"       : "Dhananjay Chitale",
+  "location"   : "India 🇮🇳",
+  "role"       : "Full Stack Developer",
+  "superpower" : "I break things to understand them,
+                  then build them better.",
+  "portfolio"  : "https://dchitale.vercel.app/",
+  "status"     : "🟢 OPEN TO OPPORTUNITIES"
+}
+```
+
+
+<br clear="right"/>
+
+---
+
+## `$ git log --oneline --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DChitale&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DChitale&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DChitale&theme=dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41" />
+
+
+
+</div>
+
+---
+
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Check_My_Work-dchitale.vercel.app-00FF41?style=for-the-badge&labelColor=0d1117)](https://dchitale.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-chitale/)
+[![Discord](https://img.shields.io/badge/Discord-@dreamx007-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@dreamx007)
+[![Telegram](https://img.shields.io/badge/Telegram-d__chitale-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_chitale)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║  dhananjay@github:~$ █                  ║
+║  > Connection established.               ║
+║  > Thanks for reading.                   ║
+║  > Now go build something cool. 🚀       ║
+╚══════════════════════════════════════════╝
+```
+
+![visitors](https://komarev.com/ghpvc/?username=DChitale&color=00ff41&style=flat-square&label=PROFILE+SCANS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003300,100:0d1117&height=100&section=footer&animation=fadeIn" />
