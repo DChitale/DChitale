@@ -51,7 +51,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Check_My_Work-dchitale.vercel.app-00FF41?style=for-the-badge&labelColor=0d1117)](https://dchitale.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Check_My_Work-dchitale.vercel.app-00ab2c?style=for-the-badge&labelColor=0d1117)](https://dchitale.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-chitale/)
 [![Discord](https://img.shields.io/badge/Discord-@dreamx007-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@dreamx007)
 [![Telegram](https://img.shields.io/badge/Telegram-d__chitale-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_chitale)
@@ -62,16 +62,8 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║  dhananjay@github:~$ █                  ║
-║  > Connection established.               ║
-║  > Thanks for reading.                   ║
-║  > Now go build something cool. 🚀       ║
-╚══════════════════════════════════════════╝
-```
 
-![visitors](https://komarev.com/ghpvc/?username=DChitale&color=00ff41&style=flat-square&label=PROFILE+SCANS)
+![visitors](https://komarev.com/ghpvc/?username=DChitale&color=00ab2c&style=flat-square&label=PROFILE+SCANS)
 
 </div>
 
