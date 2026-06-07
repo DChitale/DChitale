@@ -1,21 +1,17 @@
+![banner](https://github.com/DChitale/DChitale/blob/main/assets/git.png)
 
 
 
----
-
-## `$ git log --oneline --stats`
 
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DChitale&theme=dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41" />
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DChitale&theme=transparent&card_width=1200)](https://git.io/streak-stats)
 
 </div>
 
 
-<div align="center">
+<div align="left">
 
 
 ![visitors](https://komarev.com/ghpvc/?username=DChitale&color=00ab2c&style=flat-square&label=PROFILE+SCANS)
